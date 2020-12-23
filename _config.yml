@@ -8,7 +8,7 @@ base_font: nunito-sans
 palette: blue
 header:
   logo_img: images/logo.svg
-  logo_img_alt: Logo
+  logo_img_alt: fdfdfd
   has_nav: true
   nav_links:
     - label: Home
