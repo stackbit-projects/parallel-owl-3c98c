@@ -23,7 +23,7 @@ header:
     - label: Style Guide
       url: /style-guide
       style: link
-    - label: Contattaci
+    - label: Contatti
       url: /contatti
       style: primary
 footer:
