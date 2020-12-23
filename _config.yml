@@ -39,7 +39,7 @@ footer:
         93014 Mussomeli (CL)
         Tel.
     - type: footer_nav
-      title: Company
+      title: Azienda
       nav_links:
         - label: About Us
           url: /about
