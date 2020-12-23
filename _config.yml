@@ -32,12 +32,7 @@ footer:
       image: images/logo-alt.svg
       image_url: /
       image_alt: Footer logo
-      content: |-
-        ESCO Green Power 
-        P.I.:
-        Via
-        93014 Mussomeli (CL)
-        Tel.
+      content: 'ESCO Green Power '
     - type: footer_nav
       title: Azienda
       nav_links:
