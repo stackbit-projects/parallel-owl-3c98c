@@ -14,8 +14,8 @@ header:
     - label: Home
       url: /
       style: link
-    - label: Features
-      url: /features
+    - label: Servizi
+      url: /servizi
       style: link
     - label: Pricing
       url: /pricing
@@ -23,8 +23,8 @@ header:
     - label: Style Guide
       url: /style-guide
       style: link
-    - label: Contattaci
-      url: /signup
+    - label: Contatti
+      url: /contatti
       style: primary
 footer:
   sections:
@@ -32,9 +32,9 @@ footer:
       image: images/logo-alt.svg
       image_url: /
       image_alt: Footer logo
-      content: Stackbit theme demo
+      content: 'ESCO Green Power '
     - type: footer_nav
-      title: Company
+      title: Azienda
       nav_links:
         - label: About Us
           url: /about
@@ -48,27 +48,6 @@ footer:
         - label: Contact
           url: /contact
           style: link
-    - type: footer_nav
-      title: Community
-      nav_links:
-        - label: Twitter
-          url: 'https://twitter.com/'
-          style: link
-          has_icon: true
-          icon: twitter
-          icon_position: left
-        - label: LinkedIn
-          url: 'https://www.linkedin.com/'
-          style: link
-          has_icon: true
-          icon: linkedin
-          icon_position: left
-        - label: GitHub
-          url: 'https://github.com/'
-          style: link
-          has_icon: true
-          icon: github
-          icon_position: left
     - type: footer_form
       title: Subscribe
       content: Stay up to date with our latest developments.
@@ -90,10 +69,9 @@ footer:
       url: /privacy-policy
       style: link
   content: >-
-    &copy; Stackbit. All rights reserved. This Jamstack site was created on <a
-    href="https://www.stackbit.com" target="_blank" rel="noopener">Stackbit</a>.
-    Get yours <a href="https://app.stackbit.com/create?theme=azimuth"
-    target="_blank" rel="noopener">here</a>.
+    &copy; ESCO Green Power. All rights reserved. This Jamstack site by Mario
+    Canalella <a href="https://www.mariocanalella.pw" target="_blank"
+    rel="noopener">Mario Canalella</a>.
 sass:
   indentWidth: 4
   style: nested
