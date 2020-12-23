@@ -2,7 +2,7 @@
 title: Contatti
 subtitle: Per qualsiasi richiesta o informazione non esitare a contattarci
 image: images/11.jpg
-image_alt: Office desk top view
+image_alt: ''
 layout: page
 ---
 
