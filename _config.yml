@@ -32,7 +32,12 @@ footer:
       image: images/logo-alt.svg
       image_url: /
       image_alt: Footer logo
-      content: Stackbit theme demo
+      content: |-
+        ESCO Green Power 
+        P.I.:
+        Via
+        93014 Mussomeli (CL)
+        Tel.
     - type: footer_nav
       title: Company
       nav_links:
