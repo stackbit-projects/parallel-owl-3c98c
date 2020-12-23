@@ -14,7 +14,7 @@ header:
     - label: Home
       url: /
       style: link
-    - label: Features
+    - label: Servizi
       url: /features
       style: link
     - label: Pricing
