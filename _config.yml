@@ -34,7 +34,7 @@ footer:
       image_alt: Footer logo
       content: Stackbit theme demo
     - type: footer_nav
-      title: ''
+      title: Company
       nav_links:
         - label: About Us
           url: /about
