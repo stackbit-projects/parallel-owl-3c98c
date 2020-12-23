@@ -50,7 +50,7 @@ footer:
           style: link
     - type: footer_form
       title: Subscribe
-      content: Stay up to date with our latest developments.
+      content: Rimani aggiornato sulle nostre ultime novità.
       form_id: contactForm
       hide_labels: true
       form_fields:
